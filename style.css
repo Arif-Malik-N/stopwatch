@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+}
+
+
+
+ #container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+ 
+}
+
+.sepe {
+    margin: 0 5px;
+    font-weight: bold;
+}
+.btn{
+margin: 0 5px;
+cursor: pointer;
+
+}
